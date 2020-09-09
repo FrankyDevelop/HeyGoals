@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707045541016",
+    "firebase_url": "https://hey-goals-d6bea.firebaseio.com",
+    "project_id": "hey-goals-d6bea",
+    "storage_bucket": "hey-goals-d6bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707045541016:android:cba4cd5f2686e210dd3ced",
+        "android_client_info": {
+          "package_name": "com.example.heygoals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707045541016-3pj3eqq1b8khres23347o2pk8j3va1lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heygoals",
+            "certificate_hash": "91012a0c63ee869f02d390e6d4639562395cdfa5"
+          }
+        },
+        {
+          "client_id": "707045541016-1m0gv2mn0m7pl358gaflj3q5pdr6v7vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMouykLLs6BFoamy6m7vgv3jgFv59EsZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707045541016-1m0gv2mn0m7pl358gaflj3q5pdr6v7vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
